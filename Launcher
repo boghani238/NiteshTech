@@ -1,9 +1,9 @@
 {
   "data": [
 {
-      "admob_interstitial":"aaa/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Interstitial0.1646203181",
-      "admob_native":"aaa/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Native0.1646203155",
-      "admob_banner":"aaa/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Banner0.1646203129",
+      "admob_interstitial":"/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Interstitial0.1646203181",
+      "admob_native":"/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Native0.1646203155",
+      "admob_banner":"/22387492205,22581684593/com.iphonelauncher.ioslauncher.applelauncher.ilauncher.Banner0.1646203129",
       "ispurchaseItem":"1"
 }
 ]
